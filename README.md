@@ -1,3 +1,11 @@
-# adventure-works
+# Adventure Works Business Dashboard
 
-https://app.powerbi.com/reportEmbed?reportId=f3bb9c3f-b624-4ed1-b9c1-62797a348b58&autoAuth=true&ctid=1e37498f-7acd-4e4c-8617-388088239c2a
+[Link to the Report]
+
+# Aim of the Assignment
+The task was to create an interactive Microsoft Power BI Dashboard for an imaginary company called Adventure Works.
+
+# About the Dataset
+Source: [Udemy](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/)
+Dataset was included in the Udemy Course "Microsoft Power BI Desktop for Business Intelligence (2023)" and provided by the creators Maven Analytics, Chris Dutton, and Aaron Parry. 
+
