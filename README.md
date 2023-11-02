@@ -1,6 +1,6 @@
 # Adventure Works Business Dashboard
 
-[Link to the Report](AdventureWorks doc.pdf)
+[Link to the Report](https://github.com/emmanikkila/adventure-works/blob/main/AdventureWorks%20doc.pdf)
 
 # Aim of the Assignment
 The task was to create an interactive Microsoft Power BI Dashboard for an imaginary company called Adventure Works.
